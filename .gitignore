@@ -91,3 +91,6 @@ GPATH
 GRTAGS
 GSYMS
 GTAGS
+/.project
+/.cproject
+/.directory
